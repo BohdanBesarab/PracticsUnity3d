@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Bogda\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Bogda\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_PracticsUnity3d.257027855.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Bogda\Desktop\Unity\SelfLearn\PracticsUnity3d" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="App" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="BasketBall" t="Include">
+              <e p="AmmoCrate.cs" t="Include" />
+              <e p="Ball.cs" t="Include" />
+              <e p="BasketGameController.cs" t="Include" />
+              <e p="PlayerBasketBall.cs" t="Include" />
+              <e p="ScoreArea.cs" t="Include" />
+            </e>
+            <e p="FPS_Shooter" t="Include">
+              <e p="Game" t="Include">
+                <e p="Bullet.cs" t="Include" />
+                <e p="Enemy.cs" t="Include" />
+                <e p="ForceReceiver.cs" t="Include" />
+                <e p="GameController.cs" t="Include" />
+                <e p="HealthCrate.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+                <e p="ShootingEnemy.cs" t="Include" />
+              </e>
+              <e p="MenuController" t="Include">
+                <e p="MenuController.cs" t="Include" />
+              </e>
+              <e p="Utils" t="Include">
+                <e p="ObjectPoolingManager.cs" t="Include" />
+              </e>
+            </e>
+            <e p="NavMeshCube.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SampleScenes" t="Include">
+          <e p="Menu" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="MenuSceneLoader.cs" t="Include" />
+              <e p="PauseMenu.cs" t="Include" />
+              <e p="SceneAndURLLoader.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="CameraSwitch.cs" t="Include" />
+            <e p="LevelReset.cs" t="Include" />
+            <e p="ParticleSceneControls.cs" t="Include" />
+            <e p="PlaceTargetWithMouse.cs" t="Include" />
+            <e p="SlowMoButton.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Skybox-Procedural.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="PracticsUnity3d.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
