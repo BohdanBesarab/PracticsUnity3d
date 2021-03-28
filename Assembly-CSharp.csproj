@@ -73,6 +73,8 @@
      <Compile Include="Assets\App\Scripts\FPS_Shooter\MenuController\MenuController.cs" />
      <Compile Include="Assets\App\Scripts\FPS_Shooter\Utils\ObjectPoolingManager.cs" />
      <Compile Include="Assets\App\Scripts\NavMeshCube.cs" />
+     <Compile Include="Assets\App\Scripts\ToDoListScripts\CheckListManager.cs" />
+     <Compile Include="Assets\App\Scripts\ToDoListScripts\ChecklistObject.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
