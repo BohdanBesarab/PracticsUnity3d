@@ -16,10 +16,8 @@
     <explicitExcludes>
       <Path>.git</Path>
       <Path>.idea</Path>
-      <Path>Art</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
-      <Path>Standard Assets</Path>
       <Path>Temp</Path>
       <Path>obj</Path>
     </explicitExcludes>
